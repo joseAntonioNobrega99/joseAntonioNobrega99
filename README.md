@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- 🌱 Atualmente estou estudando desenvolvimento de apps mobile com Android Studio
+- 🌱 Atualmente estou estudando desenvolvimento web
 - 👯 Procuro ajudar e se comunicar com a comunidade de desenvolvedores
 - 🤔 Procuro ajuda com o meu desenvolvimento na área
 - 📫 Email: ramosdanobregajoseantonio951@gmail.com

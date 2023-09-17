@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- 🌱 Atualmente estou estudando desenvolvimento web
+- 🌱 Atualmente estou fazendo bacharelado em Ciência da Computação
 - 👯 Procuro ajudar e se comunicar com a comunidade de desenvolvedores
 - 🤔 Procuro ajuda com o meu desenvolvimento na área
 - 📫 Email: ramosdanobregajoseantonio951@gmail.com
